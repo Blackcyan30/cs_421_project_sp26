@@ -1,0 +1,28 @@
+LLM Output for Emotion and Empathy Prediction Utilized LLM: ChatGPT (GPT-4o)
+
+Technique: Few-Shot Prompting
+
+Conversation 1 (ID: 68)
+- Last Utterance: "Really? Life is nice and cheaper than in other states, Tucson and Flagstaff are good areas. NM is awesome BTW, I love it."
+- LLM Prediction: Emotion: 3.5, Empathy: 2.5, Polarity: 1
+- Gold Label: Emotion: 3.0, Empathy: 2.0, Polarity: 1 (Neutral/Positive)
+
+Conversation 2 (ID: 72)
+- Last Utterance: "i don't really think so we have a few rounds left tho so be quick"
+- LLM Prediction: Emotion: 1.5, Empathy: 1.0, Polarity: 0
+- Gold Label: Emotion: 1.0, Empathy: 1.0, Polarity: 1 (Neutral/Positive)
+
+Conversation 3 (ID: 74)
+- Last Utterance: "I still do see the Salvation Army outside of stores during the Holidays. I thought I remember seeing Red Cross too but could be wrong."
+- LLM Prediction: Emotion: 1.5, Empathy: 1.5, Polarity: 0
+- Gold Label: Emotion: 2.0, Empathy: 1.0, Polarity: 1 (Neutral/Positive)
+
+Conversation 4 (ID: 80)
+- Last Utterance: "haha. yeah. I think a lot of it was specualtion"
+- LLM Prediction: Emotion: 1.5, Empathy: 1.0, Polarity: 0
+- Gold Label: Emotion: 2.5, Empathy: 1.0, Polarity: 1 (Neutral/Positive)
+
+Conversation 5 (ID: 85)
+- Last Utterance: "Politicians are self serving almost everywhere but in third world, they really are terrible."
+- LLM Prediction: Emotion: 3.0, Empathy: 1.5, Polarity: -1
+- Gold Label: Emotion: 3.0, Empathy: 2.0, Polarity: -1 (Negative)
