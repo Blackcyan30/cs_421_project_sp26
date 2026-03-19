@@ -29,9 +29,9 @@
 
 | Method | Emotion (MAE) | Empathy (MAE) | Polarity (F1) |
 | :--- | :--- | :--- | :--- |
-| **Q1: ANN** | [Fill] | [Fill] | [Fill] |
-| **Q2: RNN** | [Your Result] | [Your Result] | [Your Result] |
-| **Q3: BERT** | [Fill] | [Fill] | [Fill] |
+| **Q1: ANN** | [...] | [...] | [...] |
+| **Q2: RNN** | [...] | [...] | [...] |
+| **Q3: BERT** | [...] | [...] | [...] |
 
 ---
 
